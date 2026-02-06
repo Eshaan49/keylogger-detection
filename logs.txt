@@ -1,0 +1,43 @@
+2026-01-01 12:38:18.426967 - Keylogger Detection Started
+2026-01-01 13:08:36.463902 - Keylogger Detection Started
+2026-01-01 13:16:34.408054 - Keylogger Detection Started
+2026-01-01 13:18:39.998620 - Keylogger Detection Started
+2026-01-01 13:23:33.319506 - Keylogger Detection Started
+2026-01-02 10:51:28.949408 - Keylogger Detection Started
+2026-01-02 10:56:21.222700 - BLOCKED: UnInstDaemon.exe (PID 17104)
+2026-01-02 10:56:22.629971 - BLOCKED: OneDrive.exe (PID 19352)
+2026-01-02 10:57:57.476725 - Keylogger Detection Started
+2026-01-02 10:58:33.656225 - Keylogger Detection Started
+2026-01-02 13:50:40.471375 - Keylogger Detection Started
+2026-01-07 15:54:59.670566 - Keylogger Detection Started
+2026-01-07 15:55:24.588625 - BLOCKED: OneDrive.exe (PID 29088)
+2026-01-07 15:55:59.624262 - BLOCKED: UnInstDaemon.exe (PID 28540)
+2026-01-07 15:56:17.283572 - Keylogger Detection Started
+2026-01-07 15:57:13.926717 - Keylogger Detection Started
+2026-01-08 12:05:32.602835 - BLOCKED: Discord.exe (PID 488)
+2026-01-08 12:06:58.862393 - Keylogger Detection Started
+2026-01-08 12:40:35.085734 - Keylogger Detection Started
+2026-01-08 14:37:57.869974 - Keylogger Detection Started
+2026-01-08 14:38:31.186478 - Keylogger Detection Started
+2026-01-08 14:47:24.493404 - Keylogger Detection Started
+2026-01-08 14:50:19.875220 - Keylogger Detection Stopped
+2026-01-08 15:16:59.065007 - Keylogger Detection Started
+2026-01-08 15:27:09.692254 - Keylogger Detection Started
+2026-01-08 15:31:52.077449 - Keylogger Detection Started
+2026-01-08 15:31:52.196530 - FAILED TO BLOCK: PID 0
+2026-01-08 15:31:52.317168 - FAILED TO BLOCK: PID 140
+2026-01-08 15:31:53.588671 - BLOCKED: FileCoAuth.exe (PID 1560)
+2026-01-08 15:31:54.171320 - BLOCKED: msedgewebview2.exe (PID 2584)
+2026-01-08 15:31:55.912481 - FAILED TO BLOCK: PID 4208
+2026-01-08 15:31:56.767005 - FAILED TO BLOCK: PID 4820
+2026-01-08 15:32:00.528295 - BLOCKED: Code.exe (PID 6264)
+2026-01-08 15:32:02.537313 - FAILED TO BLOCK: PID 6940
+2026-01-08 15:32:04.153336 - FAILED TO BLOCK: PID 8284
+2026-01-08 15:32:10.363226 - BLOCKED: Code.exe (PID 20228)
+2026-01-08 15:32:13.177584 - BLOCKED: msedgewebview2.exe (PID 24204)
+2026-01-08 15:32:14.697340 - BLOCKED: APSDaemon.exe (PID 26400)
+2026-01-08 15:32:16.011994 - BLOCKED: Code.exe (PID 28760)
+2026-01-08 15:32:49.250278 - Keylogger Detection Started
+2026-01-08 15:45:07.715990 - Keylogger Detection Stopped
+2026-01-09 15:11:09.727403 - Keylogger Detection Started
+2026-01-09 15:14:41.987480 - BLOCKED: UnInstDaemon.exe (PID 5948)
